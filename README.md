@@ -97,8 +97,8 @@
   </tr>
   <tr>
     <td>Fig 4> $v$=1.4 m/s</td>
-    <td>Fig 5> $v$=1.1 m/s</td>
-    <td>Fig 4> $v$=1.4 m/s</td>
+    <td>Fig 5> $v$=1.7 m/s</td>
+    <td>Fig 4> $v$=2.0 m/s</td>
   </tr>
 </table>
 
