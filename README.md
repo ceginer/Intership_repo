@@ -86,9 +86,9 @@
     <td><img src="https://github.com/ceginer/Intership_repo/assets/92140163/147d7ee6-fcdc-4650-b492-8d819ec6f917"height="200" width="300"></td>
   </tr>
   <tr>
-    <td>Fig 1> $v$=0.5 \text{ m/s}</td>
-    <td>Fig 2> $v$=0.8 \text{ m/s}</td>
-    <td>Fig 3> $v$=1.1 \text{ m/s}</td>
+    <td>Fig 1> $v$=0.5 m/s</td>
+    <td>Fig 2> $v$=0.8 m/s</td>
+    <td>Fig 3> $v$=1.1 m/s</td>
   </tr>
   <tr>
     <td><img src="https://github.com/ceginer/Intership_repo/assets/92140163/99c2bcff-7e2c-4af0-9de2-0dc48873c8ee"height="200" width="300"></td>
@@ -96,9 +96,9 @@
     <td><img src="https://github.com/ceginer/Intership_repo/assets/92140163/8af3eb90-1160-4971-a177-76cbeb70f11f"height="200" width="300"></td>
   </tr>
   <tr>
-    <td>Fig 4> $v$=1.4 \text{ m/s}</td>
-    <td>Fig 5> $v$=1.1 \text{ m/s}</td>
-    <td>Fig 4> $v$=1.4 \text{ m/s}</td>
+    <td>Fig 4> $v$=1.4 m/s</td>
+    <td>Fig 5> $v$=1.1 m/s</td>
+    <td>Fig 4> $v$=1.4 m/s</td>
   </tr>
 </table>
 
@@ -129,7 +129,7 @@ def step_length(step_velocity, step_time):
 
 <table>
   <tr>
-    <td><img src="https://github.com/ceginer/Intership_repo/assets/92140163/7bf98dcd-c4fe-45c5-90a6-a1301b920bdc"height="80%" width="80%">
+    <td><img src="https://github.com/ceginer/Intership_repo/assets/92140163/7bf98dcd-c4fe-45c5-90a6-a1301b920bdc"height="80%" width="120%">
   </tr>
 
 </table>
