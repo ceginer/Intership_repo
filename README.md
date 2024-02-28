@@ -120,7 +120,13 @@ def step_length(step_velocity, step_time):
 ```
 
 ## Preview
+
+```
+☑️ 실제 IMU를 착용한 채 걸었을 때, 실시간으로 <strong>Step Velocity</strong>, <strong>Step Length</strong> 및 <strong>Phase portrait</strong> 측정 가능
+```
+
 ### Real-time analysis - Phase portrait
+
 <table>
   <tr>
     <td><img src="https://github.com/ceginer/Intership_repo/assets/92140163/7bf98dcd-c4fe-45c5-90a6-a1301b920bdc"height="80%" width="80%">
@@ -137,8 +143,4 @@ def step_length(step_velocity, step_time):
 
 </br>
 
-```
-☑️ 실제 IMU를 착용한 채 걸었을 때, 
-실시간으로 Step Velocity, Step Length 및 Phase portrait 측정 가능
-```
 
