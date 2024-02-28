@@ -122,7 +122,7 @@ def step_length(step_velocity, step_time):
 ## Preview
 
 ```
-☑️ 실제 IMU를 착용한 채 걸었을 때, 실시간으로 <strong>Step Velocity</strong>, <strong>Step Length</strong> 및 <strong>Phase portrait</strong> 측정 가능
+☑️ 실제 IMU를 착용한 채 걸었을 때, 실시간으로 Step Velocity, Step Length 및 Phase portrait 측정 가능
 ```
 
 ### Real-time analysis - Phase portrait
