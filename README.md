@@ -125,7 +125,16 @@ def step_length(step_velocity, step_time):
 ☑️ 실제 IMU를 착용한 채 걸었을 때, 실시간으로 Step Velocity, Step Length 및 Phase portrait 측정 가능
 ```
 
+
 ### Real-time analysis - Phase portrait
+
+```
+☑️ Command Line 출력값
+  - period*0.0001 -> cycle 별 시간
+  - avg_r -> phase portrait 의 평균 반지름
+  - step_vel -> Step Velocity [m/s]
+  - step_len -> Step Length [m/s]
+```
 
 <table>
   <tr>
@@ -134,7 +143,15 @@ def step_length(step_velocity, step_time):
 
 </table>
 
+
 ### Real-time analysis - Scatter Plot 
+```
+☑️ Command Line 출력값
+  - period*0.0001 -> cycle 별 시간
+  - avg_r -> phase portrait 의 평균 반지름
+  - step_vel -> Step Velocity [m/s]
+  - step_len -> Step Length [m/s]
+```
 <table>
   <tr>
     <td><img src="https://github.com/ceginer/Intership_repo/assets/92140163/b4b60eba-c914-441c-9642-912a7b5053ea" height="80%" width="80%">
